@@ -183,4 +183,7 @@ body{
     .service-container-2{
         flex-direction: column;
     }
+    .side-navbar{
+        width: 40%;
+    }
 }
